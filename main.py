@@ -4,4 +4,3 @@ for i in range(10):
 def vivaMechMat():
     print("Viva Mech-mat faculty!!!")
 
-vivaMechMat()
